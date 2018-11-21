@@ -31,4 +31,12 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
+
+    protected boolean check_input(){
+        if (true)
+        { return true; }
+        else
+        {return false;}
+
+    }
 }
